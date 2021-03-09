@@ -1,0 +1,3 @@
+steamlit==0.70.0
+pandas==1.2.1
+
