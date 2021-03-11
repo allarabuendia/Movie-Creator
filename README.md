@@ -2,7 +2,7 @@
 Movie Creator for EDA_IMDB
 
 
-In Pycharm
+In Pycharm:
 
 Write in console: streamlit run streamlitmain.py
 
